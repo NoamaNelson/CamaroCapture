@@ -8,6 +8,7 @@ Discription:Read Camaro cature and save
 import cv2
 import numpy as np
 
+
 #´ò¿ªÉãÏñÍ·
 cap = cv2.VideoCapture(0)
     
